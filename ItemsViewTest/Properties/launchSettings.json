@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ItemsViewTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ItemsViewTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
